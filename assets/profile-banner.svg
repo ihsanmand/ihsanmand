@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fawad Ihsan</title>
+  <desc id="desc">Software Engineering, AI, Computer Vision and Secure Intelligent Systems</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#18314f" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" fill="#07111f"/>
+  <rect width="1280" height="360" fill="url(#grid)" opacity=".48"/>
+  <path d="M0 278C210 234 318 334 514 274S820 168 1280 228" fill="none" stroke="#0e7490" stroke-width="2" opacity=".44"/>
+  <path d="M0 302C226 258 360 350 566 288S918 190 1280 250" fill="none" stroke="#2563eb" stroke-width="1.5" opacity=".38"/>
+  <g fill="none" stroke="url(#accent)" opacity=".68">
+    <path d="M906 74h86l34 34h112"/>
+    <path d="M950 124h102l42 42h88"/>
+    <path d="M880 178h76l28 28h154"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="906" cy="74" r="4"/>
+    <circle cx="1026" cy="108" r="4"/>
+    <circle cx="950" cy="124" r="4"/>
+    <circle cx="1094" cy="166" r="4"/>
+    <circle cx="880" cy="178" r="4"/>
+    <circle cx="984" cy="206" r="4"/>
+  </g>
+  <rect x="78" y="64" width="8" height="172" rx="4" fill="url(#accent)"/>
+  <text x="120" y="132" fill="#e6f4ff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1">FAWAD IHSAN</text>
+  <text x="122" y="180" fill="#8bdcf2" font-family="Segoe UI, Arial, sans-serif" font-size="23">Software Engineering · AI · Computer Vision · Secure Intelligent Systems</text>
+  <text x="122" y="226" fill="#a8b8ca" font-family="Consolas, monospace" font-size="17">Problem → Architecture → Implementation → Experimentation → Deployment</text>
+  <text x="122" y="302" fill="#668199" font-family="Segoe UI, Arial, sans-serif" font-size="14">BUILDING EVIDENCE-DRIVEN, PRIVACY-CONSCIOUS INTELLIGENT SYSTEMS</text>
+</svg>
