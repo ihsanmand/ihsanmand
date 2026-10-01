@@ -14,7 +14,6 @@ My engineering work spans backend development, web and mobile applications, data
 
 **BS Software Engineering**  
 Abasyn University, Pakistan  
-CGPA: **3.24 / 4.00**
 
 ## Research Direction
 
