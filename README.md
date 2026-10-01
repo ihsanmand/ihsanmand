@@ -52,6 +52,10 @@ A multi-platform local-services marketplace built around a controlled request, o
 
 I made the project, architecture, design, implementation-direction, testing, integration, and deployment decisions. AI-assisted development tools, including Codex, supported coding, debugging, and workflow execution; they did not replace project ownership or engineering judgment.
 
+### Additional Engineering Work
+
+**[ZARMS — Zilladar Abiana Revenue Management System](https://github.com/ihsanmand/ZARMS-Revenue-Management-System)** — An offline Windows desktop engineering project focused on exact-paisa accounting, central-ledger reporting, effective-dated history, and auditable financial corrections. The complete implementation remains private; the public repository is a sanitized case study.
+
 ### AI-Based Intelligent CCTV Threat Detection System
 
 A computer-vision project involving CCTV/video analysis, a Kaggle-sourced dataset, YOLOv8 model training, application integration, and deployment work for suspicious-activity and weapon/violence-event detection.
