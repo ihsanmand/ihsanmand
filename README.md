@@ -39,7 +39,7 @@ I am an aspiring researcher, not an established research scientist. My current g
 
 ## Featured Engineering Work
 
-### QMSP — Quick Multi-Service Provider
+### [QMSP — Quick Multi-Service Provider](https://github.com/ihsanmand/QMSP-Quick-Multi-Service-Provider)
 
 A multi-platform local-services marketplace built around a controlled request, offer, customer-acceptance, and booking workflow.
 
@@ -48,7 +48,7 @@ A multi-platform local-services marketplace built around a controlled request, o
 - **Engineering scope:** project planning, system architecture, database design, UI/UX planning, backend and frontend development, integration, testing, deployment preparation, and overall technical leadership
 - **Verified capabilities:** open and direct service requests, provider offers, customer-controlled acceptance, role-based booking lifecycle, OTP-controlled service start, private verification evidence, WebSockets, and authorized journey tracking
 - **Intelligent foundation:** explainable rule-based pricing estimates and provider recommendation previews; these are not presented as trained machine-learning models
-- **Source policy:** the complete implementation remains private; a sanitized public engineering case study is being prepared
+- **Source policy:** the complete implementation remains private; see the [sanitized public engineering case study](https://github.com/ihsanmand/QMSP-Quick-Multi-Service-Provider) for a public overview of the system.
 
 I made the project, architecture, design, implementation-direction, testing, integration, and deployment decisions. AI-assisted development tools, including Codex, supported coding, debugging, and workflow execution; they did not replace project ownership or engineering judgment.
 
